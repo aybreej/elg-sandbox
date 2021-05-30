@@ -12,3 +12,7 @@
 .notification-container {
   flex: 0 1 auto;
 }
+
+.pf-c-page {
+  --pf-c-page__sidebar--Width: 16rem;
+}

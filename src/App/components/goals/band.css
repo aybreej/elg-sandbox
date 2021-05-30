@@ -1,0 +1,8 @@
+.elg-band {
+  display: flex;
+  flex-direction: row;
+}
+
+.elg-element:nth-child(2), .elg-element:nth-child(3) {
+  margin-left: -0.5em;
+}

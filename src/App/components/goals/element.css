@@ -1,0 +1,34 @@
+.elg-element {
+  width: 3.5rem;
+  height: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6em;
+  color: rgba(0, 0, 0, 0.2);
+}
+
+.elg-element--colour-none {
+  background-color: #c8c8c8;
+  z-index: 1;
+}
+
+.elg-element--colour-one {
+  background-color: #fa9917;
+  z-index: 10;
+}
+
+.elg-element--colour-two {
+  background-color: #2ac940;
+  z-index: 20;
+}
+
+.elg-element--colour-three {
+  background-color: #ff3366;
+  z-index: 30;
+}
+
+.elg-element--colour-four {
+  background-color: #99640a;
+  z-index: 40;
+}
